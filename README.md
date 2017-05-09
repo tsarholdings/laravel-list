@@ -16,3 +16,5 @@
 - https://github.com/CachetHQ/Cachet
 - https://github.com/cydrobolt/polr
 - https://github.com/invoiceninja/invoiceninja
+- https://github.com/flarum/flarum
+- https://github.com/attendize/attendize
