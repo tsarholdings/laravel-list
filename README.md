@@ -1,6 +1,5 @@
 # List of useful Laravel packages/applications
 
-
 ## Packages
 Useful packages that will help you create a better application quicker.
 
